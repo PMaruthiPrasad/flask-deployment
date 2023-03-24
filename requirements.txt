@@ -1,6 +1,6 @@
 flask
 Flask-Cors
-python==3.8
+python==3.9
 numpy
 Pillow
 gunicorn==20.1.0
